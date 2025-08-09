@@ -1,0 +1,52 @@
+{
+    "common": {
+        "cancel": "Cancel",
+        "confirm": "Confirm",
+        "clear": "Clear",
+        "close": "Close",
+        "search": "Search",
+        "loading": "Loading...",
+        "no_results": "No results found"
+    },
+    "tabs": {
+        "home": "Home",
+        "account": "Account"
+    },
+    "login": {
+        "title": "Login",
+        "username_placeholder": "Username",
+        "password_placeholder": "Password",
+        "login_button": "Log In",
+        "error_enter_credentials": "Please enter username and password",
+        "error_invalid_credentials": "Invalid username or password"
+    },
+    "account": {
+        "greeting": "Hey {{username}}",
+        "user": "User",
+        "change_language": "Change Language",
+        "logout": "Logout",
+        "select_language": "Select Language",
+        "english": "English",
+        "arabic": "Arabic",
+        "logout_confirmation_title": "Confirm Logout",
+        "logout_confirmation_message": "Are you sure you want to logout?",
+        "dark_mode": "Dark Mode",
+        "light_mode": "Light Mode"
+    },
+    "location": {
+        "select_location": "Select Location",
+        "search_location": "Search for a location",
+        "see_all": "See all in Lebanon"
+    },
+    "category": {
+        "all_categories": "All Categories",
+        "vehicles": "Vehicles",
+        "properties": "Properties",
+        "mobiles": "Mobiles",
+        "electronics": "Electronics"
+    },
+    "search": {
+        "min_price": "Min Price",
+        "max_price": "Max Price"
+    }
+}

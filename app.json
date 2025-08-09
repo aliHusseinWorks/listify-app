@@ -24,6 +24,14 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "supportsRTL": true,
+      "forcesRTL": true,
+      "userInterfaceStyle": "automatic"
+    },
+    "plugins": [
+      "expo-localization"
+    ]
   }
 }

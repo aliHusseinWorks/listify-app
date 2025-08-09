@@ -1,0 +1,1 @@
+export { fetchLocationsApi, fetchCategoriesApi, fetchAdsApi } from "./services";

@@ -1,0 +1,52 @@
+{
+  "common": {
+    "cancel": "إلغاء",
+    "confirm": "تأكيد",
+    "clear": "مسح",
+    "close": "إغلاق",
+    "search": "بحث",
+    "loading": "جارٍ التحميل...",
+    "no_results": "لا توجد نتائج"
+  },
+  "tabs": {
+    "home": "الرئيسية",
+    "account": "الحساب"
+  },
+  "login": {
+    "title": "تسجيل الدخول",
+    "username_placeholder": "اسم المستخدم",
+    "password_placeholder": "كلمة المرور",
+    "login_button": "تسجيل الدخول",
+    "error_enter_credentials": "يرجى إدخال اسم المستخدم وكلمة المرور",
+    "error_invalid_credentials": "اسم المستخدم أو كلمة المرور غير صحيحة"
+  },
+  "account": {
+    "greeting": "مرحباً {{username}}",
+    "user": "المستخدم",
+    "change_language": "تغيير اللغة",
+    "logout": "تسجيل الخروج",
+    "select_language": "اختر اللغة",
+    "english": "الإنجليزية",
+    "arabic": "العربية",
+    "logout_confirmation_title": "تأكيد تسجيل الخروج",
+    "logout_confirmation_message": "هل أنت متأكد أنك تريد تسجيل الخروج؟",
+    "dark_mode": "الوضع الداكن",
+    "light_mode": "الوضع الفاتح"
+  },
+  "location": {
+    "select_location": "اختر الموقع",
+    "search_location": "ابحث عن موقع",
+    "see_all": "عرض الكل في لبنان"
+  },
+  "category": {
+    "all_categories": "جميع الفئات",
+    "vehicles": "المركبات",
+    "properties": "العقارات",
+    "mobiles": "الهواتف المحمولة",
+    "electronics": "الإلكترونيات"
+  },
+  "search": {
+    "min_price": "السعر الأدنى",
+    "max_price": "السعر الأقصى"
+  }
+}
